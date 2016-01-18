@@ -1,0 +1,10 @@
+com\sample\ui\LoginUI.class
+com\sample\entity\AddressBook.class
+com\sample\ui\AddressBookUI.class
+com\sample\service\AddressBookServiceImpl.class
+com\sample\service\LoginService.class
+com\sample\ui\LoginUI$Servlet.class
+com\sample\service\AddressBookService.class
+com\sample\ui\RegistrationUI.class
+com\sample\form\ContactForm.class
+com\sample\VaadinStarterApplication.class
